@@ -45,7 +45,7 @@ engagement, making collaborative experiences seamless and accessible.
 AMPLIFY CREATIVE is about more than just a tool – its goal is to foster
 inclusion, creativity and learning across the Cultural and Creative Industries.
 
-#### Scotland: Connecting Remote Musicians
+#### AMPLIFY CREATIVE Studio - Scotland: Connecting Remote Musicians
 
 Focused on traditional Gaelic music, AMPLIFY CREATIVE will provide an
 easy-to-use, low-cost digital tool to enable professional and non- professional
@@ -57,7 +57,7 @@ with features like AI audio mixing and low-latency communication.
 
 - [Creative Studio](https://github.com/amplify-project/Creative-Studio) Open-source video conferencing web studio for synchronous remote music creation and learning.
 
-#### Portugal: Babies at the Creative Center
+#### AMPLIFY CREATIVE Playground - Portugal: Babies at the Creative Center
 
 In this pilot, AMPLIFY CREATIVE will be used to turn babies into co-creators of
 musical experiences. The tool will offer multi-sensorial musical experiences to
@@ -94,7 +94,7 @@ engagement and phygital social interaction of artists and audiences.
 AMPLIFY IMMERSIVE isn’t just about technology; it’s about reimagining human
 connection through art and culture, even across distances.
 
-#### Italy: Immersive Concerts
+#### AMPLIFY IMMERSIVE Stage - Italy: Immersive Concerts
 
 This pilot transforms traditional concert experiences by allowing audiences to
 enjoy live performances through augmented reality. The pilot will test an
@@ -112,7 +112,7 @@ viewers.
 - [Immersive Stage WebXR](https://github.com/amplify-project/Immersive-Stage-WebXR) End-to-end platform for live and on-demand immersive concerts: capture, encoding, DASH/S3 delivery, a browser scene editor, and a WebXR player (VR/AR, Meta Quest) with 360° video, binaural Ambisonics and per-musician audio zoom.
 - [Immersive Stage Unity](https://github.com/amplify-project/Immersive-Stage-Unity) Experimental Unity-based prototype for exploring immersive concert experiences on Meta Quest 3 and Android tablets. The prototype supports on-demand 360° concert video, spatial/binaural Ambisonics audio, per-musician audio stems and audio zoom, with interactions for selecting musicians and changing perspectives.
 
-#### Barcelona: Co-Creating Immersive Opera
+#### AMPLIFY IMMERSIVE Space - Barcelona: Co-Creating Immersive Opera
 
 Bringing opera to the streets of Barcelona’s Sant Andreu neighborhood, this
 pilot connects professional and amateur artists through digital tools.
