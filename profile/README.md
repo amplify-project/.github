@@ -75,6 +75,8 @@ concert environment.
 
 ## AMPLIFY IMMERSIVE
 
+<img src="immersive_header.png" style="width: 100%; height: auto;" />
+
 AMPLIFY IMMERSIVE leverages cutting-edge Extended Reality technologies to
 create breathtaking live performance experiences. The tool will allow for the
 visual extension of  a real stage equipped with sound and light infrastructure
