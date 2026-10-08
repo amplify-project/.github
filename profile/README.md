@@ -71,7 +71,7 @@ concert environment.
 - [Light Instrument Schematics](https://github.com/amplify-project/light-instrument-schematics) Schematics for the PCBs powering the Light Instruments
 - [Light Instrument Editor](https://github.com/amplify-project/light-instrument-node-editor) Editor, providing a node-based workflow for designing lighting setups for AMPLIFY Light Instruments
 - [Light Instrument Config](https://github.com/amplify-project/light-instrument-config) Desktop application for configuring AMPLIFY Light Instruments and LED Controllers through USB
-- [Interface Library](https://github.com/amplify-project/interface-library-spec) High level specification for AMPLIFY Creative interface libraries. For specific implementations of the specification, check the [Python](https://github.com/amplify-project/interface-library-python) and the [Unity](https://github.com/amplify-project/interface-library-unity)
+- [Interface Library](https://github.com/amplify-project/interface-library-spec) High level specification for AMPLIFY Creative interface libraries. For specific implementations of the specification, check the [Python](https://github.com/amplify-project/interface-library-python) and the [Unity](https://github.com/amplify-project/interface-library-unity) libraries
 
 ## AMPLIFY IMMERSIVE
 
