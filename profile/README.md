@@ -27,7 +27,7 @@ to the repositories for each pilot, in which the development effort takes place.
 
 ## AMPLIFY CREATIVE
 
-![](creative_header.png)
+<img src="creative_header.png" style="width: 100%; height: auto;" />
 
 AMPLIFY CREATIVE is a user-friendly digital tool designed to unite people
 across distances for learning, performing, and creating together. Ideal for
