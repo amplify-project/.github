@@ -27,6 +27,8 @@ to the repositories for each pilot, in which the development effort takes place.
 
 ## AMPLIFY CREATIVE
 
+![](creative_header.png)
+
 AMPLIFY CREATIVE is a user-friendly digital tool designed to unite people
 across distances for learning, performing, and creating together. Ideal for
 community settings, it combines AI-driven audio-visual production with phygital
@@ -36,7 +38,7 @@ engagement, making collaborative experiences seamless and accessible.
 - Multi-Modal Sensing: Captures emotional cues, like movement or expression, to adapt live performances.
 - Flexible Connectivity: Seamlessly integrates multiple devices in different settings.
 
-AMPLIFY CREATIVE is about more than just a tool – its goal is to foster
+AMPLIFY CREATIVE's goal is to foster
 inclusion, creativity and learning across the Cultural and Creative Industries.
 
 ### AMPLIFY CREATIVE Studio - Scotland: Connecting Remote Musicians
@@ -85,7 +87,7 @@ engagement and phygital social interaction of artists and audiences.
 - Remote Interaction: Enables real-time audience engagement, from virtual applause to live Q&A.
 - Adaptability: Can transform any location - be it a town square or festival stage - into a performance space.
 
-AMPLIFY IMMERSIVE isn’t just about technology; it’s about reimagining human
+AMPLIFY IMMERSIVE is about reimagining human
 connection through art and culture, even across distances.
 
 ### AMPLIFY IMMERSIVE Stage - Italy: Immersive Concerts
