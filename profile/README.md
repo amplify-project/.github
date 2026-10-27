@@ -125,3 +125,4 @@ using their mobile phones and headphones, they will experience a performance or
 presentation from the co-creation process.
 
 - [Immersive Opera Experience](https://github.com/amplify-project/VRTApp-Prison) Immersive virtual reality experience co-created with residents of Barcelona's Sant Andreu neighourhood, telling the story and preserving the memories of female political prisoners
+- [VR2Gather](https://github.com/cwi-dis/vr2gather) Unity package for creating immersive Social VR applications, which forms the basis of the Immersive Opera Experience, providing multi-user VR environments and point cloud acquisition and rendering 
